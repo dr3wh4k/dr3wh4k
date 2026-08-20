@@ -49,6 +49,4 @@ Documento mis writeups y proyectos aquí mismo.
 
 ---
 
-```
-> EOF
-```
+
