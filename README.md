@@ -1,6 +1,5 @@
-
-```
 <img src="./favicon.png" width="80" alt="dr3wh4k">
+```
 ┌──(dr3wh4k㉿kali)-[~]
 └─$ whoami
 ```
