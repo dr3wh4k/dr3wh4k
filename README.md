@@ -1,4 +1,7 @@
-<img src="./favicon.png" width="80" alt="dr3wh4k">
+<p align="center">
+  <img src="./favicon.png" width="100" alt="dr3wh4k">
+</p>
+
 ```
 ┌──(dr3wh4k㉿kali)-[~]
 └─$ whoami
