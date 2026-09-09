@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40dr3wh4k%3A~%23+whoami;Cybersecurity+Student;CTF+Player+%26+Pentester+in+training;Breaking+things+to+learn+how+to+defend+them" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF7300,50:FFF200,75:00FF41,100:00E5FF&height=180&section=header&text=dr3wh4k&fontSize=60&fontColor=0D1117&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=root%40dr3wh4k%3A~%23+whoami;Cybersecurity+Student+%F0%9F%94%92;CTF+Player+%26+Pentester+in+training;Breaking+things+to+learn+how+to+defend+them" alt="Typing SVG" />
 
 </div>
 
@@ -14,8 +16,8 @@
 <h1 align="center">dr3wh4k</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dr3wh4k&label=Profile%20Views&color=00FF41&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dr3wh4k?label=Followers&style=flat-square&color=00FF41" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=dr3wh4k&label=Profile%20Views&color=FF00FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/dr3wh4k?label=Followers&style=for-the-badge&color=00E5FF&logo=github&logoColor=white" alt="followers" />
 </p>
 
 <p align="center">
@@ -63,26 +65,6 @@ Documento mis writeups y proyectos aquí mismo.
 
 ---
 
-### `$ ./stats.sh --github`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dr3wh4k&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr3wh4k&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr3wh4k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr3wh4k&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=dr3wh4k" alt="dr3wh4k's GitHub stats" />
-  </a>
-</p>
-
----
-
 ### `$ ./connect.sh`
 
 <p align="center">
@@ -120,6 +102,6 @@ Documento mis writeups y proyectos aquí mismo.
 [+] Conexión establecida. Gracias por pasarte por aquí.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:00FF41,50:FFF200,75:FF7300,100:FF0000&height=120&section=footer" width="100%"/>
 
 </div>
