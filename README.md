@@ -75,6 +75,12 @@ Documento mis writeups y proyectos aquí mismo.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr3wh4k&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=dr3wh4k" alt="dr3wh4k's GitHub stats" />
+  </a>
+</p>
+
 ---
 
 ### `$ ./connect.sh`
