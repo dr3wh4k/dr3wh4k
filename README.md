@@ -15,10 +15,7 @@
 
 <h1 align="center">dr3wh4k</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dr3wh4k&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dr3wh4k?label=Followers&style=for-the-badge&color=FF0000&logo=github&logoColor=white" alt="followers" />
-</p>
+
 
 <p align="center">
 <code>&gt; cybersecurity student | CTF player | building things &amp; breaking things</code>
